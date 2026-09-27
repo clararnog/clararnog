@@ -29,15 +29,15 @@ Graduanda em Engenharia de Controlo e Automação e entusiasta da cultura maker.
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br/><br/>
 
 #### Hardware, sistemas e ferramentas
 
+<img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GNU Radio" title="GNU Radio" height="30px" style="padding-right:10px;" src="./gnuradio-logo.svg" />
 <img align="left" alt="Eletrónica e prototipagem" title="Eletrónica e prototipagem" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Eletrónica%20%26%20Prototipagem-0F0F26?style=flat-square&logo=arduino&logoColor=FF4FA3" />
 <img align="left" alt="Automação e IoT" title="Automação e IoT" height="30px" src="https://img.shields.io/badge/Automação%20%26%20IoT-0F0F26?style=flat-square&logo=raspberrypi&logoColor=00E5FF" />
