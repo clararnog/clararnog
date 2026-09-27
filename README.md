@@ -143,6 +143,6 @@ Olá! Sou a Clara Nogueira, graduanda em Engenharia de Controlo e Automação e 
 <p align="center">
     <img
         alt="Gráfico de contribuições no GitHub"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=clararnog&bg_color=1B1B3A&color=00C2D1&line=7C5CFC&point=39D98A&area_color=5B4B8A&area=true&hide_border=true"
+        src="https://ghchart.rshah.org/00C2D1/clararnog"
     />
 </p>
