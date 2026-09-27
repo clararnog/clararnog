@@ -3,8 +3,8 @@
     <img
         src="./clara-gif.gif"
         alt="GIF de Clara Nogueira"
-        width="72px"
-        height="72px"
+        width="100px"
+        height="178px"
         style="display:inline-block; border-radius:18px; box-shadow:0 0 0 3px rgba(255,93,162,0.55), 0 10px 22px rgba(123, 92, 255, 0.35); background:#1B1B3A; padding:4px;"
     />
 </h1>
